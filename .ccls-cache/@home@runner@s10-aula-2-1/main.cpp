@@ -2,6 +2,7 @@
 using namespace std; 
 
 //Resposta da Pergunta 1: 
+//A função main() é a função principal do programa. Ela é a primeira função que
 int main () { 
   class Pessoa {
   private: 
